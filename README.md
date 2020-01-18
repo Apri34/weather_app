@@ -1,16 +1,19 @@
 # weather_app
+A Flupper app that shows the current weather, temperature and windspeed of a chosen location.
 
-A new Flutter project.
+## Motivation
+As I wanted to get into Flutter, I started developing this app.
 
-## Getting Started
+## Libraries used
+[http](https://pub.dev/packages/http) for API calls
 
-This project is a starting point for a Flutter application.
+## API
+I used [OpenWeatherMap](https://openweathermap.org/) to get the weather data.
 
-A few resources to get you started if this is your first Flutter project:
+## What I learned
+* I got basic knowledge of Flutter
+* I learned hot to make HTTP requests in dart
+* I learned about routing
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Andreas Pribitzer
