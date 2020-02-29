@@ -4,6 +4,12 @@ A Flupper app that shows the current weather, temperature and windspeed of a cho
 ## Motivation
 As I wanted to get into Flutter, I started developing this app.
 
+## Screenshots
+![](images/Screenshot1.png)
+![](images/Screenshot2.png)
+![](images/Screenshot3.png)
+![](images/Screenshot4.png)
+
 ## Libraries used
 [http](https://pub.dev/packages/http) for API calls
 
